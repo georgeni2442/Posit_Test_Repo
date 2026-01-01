@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - .nojekyll
 
 website:
   title: "Posit_Test_Page"
